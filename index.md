@@ -3,15 +3,15 @@
 
 # Sarthak Chandra's Website
 
-An engaging 1-3 sentence description of your lab.
+My goal is to examine the principles that underlie the development and function of circuits in the brain, through tools from physics
 
 {% include section.html %}
-
+  
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Test text 1.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Test text 2.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Test text 3.
 
 {%
   include button.html
