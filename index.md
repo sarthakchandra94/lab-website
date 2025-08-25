@@ -3,7 +3,7 @@
 
 # Sarthak Chandra's Website
 
-My goal is to examine the principles that underlie the development and function of circuits in the brain, through tools from physics
+My goal is to examine the principles that underlie the development and function of circuits in the brain, through tools from physics.
 
 {% include section.html %}
   
